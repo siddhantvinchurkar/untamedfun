@@ -1,0 +1,19 @@
+{  
+    "short_name":"UF",
+    "name":"Untamed Fun",
+    "icons":[  
+        {  
+            "src":"images/icons/favicon.png",
+            "type":"image/png",
+            "sizes":"32x32"
+        }	
+    ],
+    "background_color":"#111111",
+    "display":"standalone",
+    "orientation":"portrait",
+    "theme_color":"#00FF00",
+    "start_url":"index.html",
+    "manifest_version": 2,
+    "version": "1.0",
+    "summary":"Auxiliary valve, banana sasquatch!"
+}
